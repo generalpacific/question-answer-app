@@ -1,6 +1,7 @@
 This is simple QuestionAnswerApp for android which has exisiting Q&As. In portrait mode the question is displayed and when phone is rotated the answer is shown. 
 
-To use the app. Import the complete project to eclipse and then export as apk.
+To use the app. 
+Import the complete project to eclipse and then export as apk or download "QuestionAnswer.apk" which is present above.
 Install the apk  on phone.
 
 TODOs:
